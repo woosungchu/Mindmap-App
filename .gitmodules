@@ -1,3 +1,6 @@
 [submodule "Mindmap-Server"]
 	path = Mindmap-Server
 	url = https://github.com/woosungchu/Mindmap-Server.git
+[submodule "Mindmap-Web"]
+	path = Mindmap-Web
+	url = https://github.com/woosungchu/Mindmap-Web.git
