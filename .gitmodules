@@ -1,0 +1,3 @@
+[submodule "Mindmap-Server"]
+	path = Mindmap-Server
+	url = https://github.com/woosungchu/Mindmap-Server.git

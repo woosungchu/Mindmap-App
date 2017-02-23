@@ -1,0 +1,10 @@
+# Backend
+*.pyc
+
+# vrtualenv
+env/
+
+#frontend
+node_modules/
+dist/
+npm-debug.log
